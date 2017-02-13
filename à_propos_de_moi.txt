@@ -1,0 +1,25 @@
+Bonjour je suis Teddy, j'ai 47 ans et me reconverti dans le
+métier de Dévellopeur Web.
+
+Je suis un ancien maçon et mécanicien TP en reconversion
+professionel, suite à une reconnaissance de travailleur
+handicapé.
+
+J'ai obtenu mon BEP en 2013, puis le bac-pro en 2014, en tant
+qu'infographiste plurimédia, dans un ERP à l'ONAC.
+
+J'ai travaillé en 2015 six mois dans une association et 
+c'est là que suite à une mise en page sur un article qui
+parlait des MOCCS, que j"ai eu un déclic et me suis mis à 
+apprendre le code en autodidacte, avec l'appui des cours 
+d'OPENCLASSEROM.
+
+J'ai déja obtenu mon certificat pour les cours de HTML et CSS.
+Mon apprentissage pour le PHP et MYSQL est en cours et c'est
+durant cet apprentissage, que j'ai été aiguillé sur le
+cour Gérer vos codes sources avec GIt et Gihub.
+
+Mon objectif est d'en faire mon métier et créer mon site, 
+qui me servira de vitrine pour mes creations.
+
+Teddy.
